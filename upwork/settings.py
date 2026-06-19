@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'shared',
     'contract',
     'project',
+    'notifications',
+    'wallet',
 
     'rest_framework',
     'rest_framework_simplejwt',
